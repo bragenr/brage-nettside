@@ -1,6 +1,6 @@
 ---
 title: First post!
-date: 2015-01-05
+date: 2023-10-20
 ---
 
-This is my first post, how exciting!
+Hello world!
