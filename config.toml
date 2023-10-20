@@ -1,4 +1,4 @@
-baseurl = "https://bragenr.com"
+baseurl = "https://brage-blog.pages.dev/"
 DefaultContentLanguage = "en"
 title = "Brage Nesteby Reitan"
 theme = "beautifulhugo"
