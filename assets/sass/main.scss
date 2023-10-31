@@ -49,6 +49,23 @@ footer {
   text-align: center;
 }
 
+.home {
+    padding: 1em 15px;
+    text-decoration: none;
+    color: inherit;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: left;
+}
+
 .dark-mode-toggle {
     background-color: inherit;
     border: none;
