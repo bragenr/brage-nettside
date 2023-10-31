@@ -1,5 +1,5 @@
 ---
 title: Brage N. Reitan
-hide_footer: true
+hide_footer: false
 ---
 Hello world!!
