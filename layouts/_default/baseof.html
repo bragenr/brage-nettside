@@ -3,10 +3,11 @@
     <head>
         {{ partial "meta.html" . }}
     </head>
-    {{ partial "footer.html" . }}
     <body>
         {{ block "main" . }}
         {{ end }}
+        {{ partial "nav.html" }}
+        <script src="/js/dark-mode-toggle.js"></script>
+        {{ partial "footer.html" . }}
     </body>
-    {{ partial "nav.html" }}
 </html>
