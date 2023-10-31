@@ -4,9 +4,9 @@
         {{ partial "meta.html" . }}
     </head>
     <body>
+        {{ partial "nav.html" }}
         {{ block "main" . }}
         {{ end }}
-        {{ partial "nav.html" }}
         <script src="/js/dark-mode-toggle.js"></script>
         {{ partial "footer.html" . }}
     </body>

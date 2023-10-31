@@ -1,16 +1,24 @@
-document.querySelector('.dark-mode-toggle').addEventListener('click', function() {
+document.addEventListener('DOMContentLoaded', function() {
     var body = document.querySelector('body');
     var button = document.querySelector('.dark-mode-toggle');
-    
-    if(body.classList.contains('dark-mode')) {
-      body.classList.remove('dark-mode');
+
+    if(localStorage.getItem('dark-mode') === 'enabled') {
+        body.classList.add('dark-mode');
+        button.textContent = '🌙';
     } else {
-      body.classList.add('dark-mode');
+        body.classList.remove('dark-mode');
+        button.textContent = '🌞';
     }
 
-    if(body.classList.contains('dark-mode')) {
-      button.textContent = '🌙'; 
-    } else {
-      button.textContent = '🌞'; 
-    }
+    button.addEventListener('click', function() {
+        if(body.classList.contains('dark-mode')) {
+            body.classList.remove('dark-mode');
+            button.textContent = '🌞';
+            localStorage.setItem('dark-mode', 'disabled');
+        } else {
+            body.classList.add('dark-mode');
+            button.textContent = '🌙';
+            localStorage.setItem('dark-mode', 'enabled');
+        }
+    });
 });
