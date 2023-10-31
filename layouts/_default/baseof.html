@@ -1,9 +1,12 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-    <title>{{ .Title }}</title>
-</head>
-<body>
-    {{ block "main" . }}{{ end }}
-</body>
+    <head>
+        {{ partial "meta.html" . }}
+    </head>
+    {{ partial "footer.html" . }}
+    <body>
+        {{ block "main" . }}
+        {{ end }}
+    </body>
+    {{ partial "nav.html" }}
 </html>

@@ -1,2 +1,5 @@
 baseURL = "https://bragenr.com"
-title = "Brage Nesteby Reitan"
+title = "Brage N. Reitan"
+
+[params]
+name = 'Brage'
