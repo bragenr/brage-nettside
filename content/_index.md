@@ -2,4 +2,4 @@
 title: Brage N. Reitan
 hide_footer: false
 ---
-Hello world!!
+# Velkommen til min Hugo-nettside
