@@ -5,6 +5,7 @@ body {
   background-color: #000000;
   color: #ffffff;
   transition: background-color 0.3s, color 0.3s;
+  text-align: center;
 }
 
 nav {
@@ -53,4 +54,8 @@ footer {
     z-index: 1000;
     display: flex;
     justify-content: left;
+}
+
+.content-ctf-il {
+  text-align: left;
 }
