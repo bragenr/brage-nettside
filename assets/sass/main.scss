@@ -6,6 +6,16 @@ body {
   color: #ffffff;
 }
 
+.custom-icon {
+  max-width: 1%;
+}
+
+
+/* img {
+  max-width: 10%;
+  justify-content: space-evenly;
+} */
+
 a:link {
   color: inherit;
   text-decoration: none;
@@ -79,6 +89,3 @@ p{
     justify-content: left;
 }
 
-.github-logo{
-  width: 100px;
-}
