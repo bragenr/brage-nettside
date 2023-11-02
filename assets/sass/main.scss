@@ -4,16 +4,13 @@ body {
   font-family: sans-serif;
   background-color: #000000;
   color: #ffffff;
-  transition: background-color 0.3s, color 0.3s;
-  text-align: center;
 }
-/* Unvisited link */
+
 a:link {
   color: inherit;
   text-decoration: none;
 }
 
-/* Visited link */
 a:visited {
   color: inherit;
 }
@@ -22,8 +19,6 @@ a:hover {
   text-decoration: underline;
 }
 
-
-/* Active link */
 a:active {
   color: green;
 }
@@ -55,8 +50,16 @@ nav {
   }  
 
 footer {
-  padding: 10px;
+  padding: 2em;
   text-align: center;
+  font-size: small;
+}
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: start;
 }
 
 .home {
@@ -78,8 +81,4 @@ footer {
 
 .content-ctf-il {
   text-align: left;
-}
-
-footer{
-  font-size: small;
 }

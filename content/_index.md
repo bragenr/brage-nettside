@@ -9,5 +9,3 @@ I Cyberforsvar har jeg fått bryne meg på alt fra logganalyse i Splunk, memory 
 
 
 Denne nettsiden er min digitale portefølje, et sted hvor jeg deler mine tanker og analyser fra Capture The Flag (CTF)-konkurranser, dykker ned i de nyeste prosjektene mine, og dokumenterer min faglige utvikling gjennom sertifiseringer og praktiske erfaringer.
-
-Takk for at du stakk innom. Bli med på reisen gjennom den evige læringsprosessen som er cybersikkerhet – det blir aldri kjedelig!
