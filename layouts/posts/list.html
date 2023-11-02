@@ -2,7 +2,7 @@
   <h1>Mine bloggposter</h1>
   <ul>
   {{ range .Pages }}
-    <li class="content-ctf-il">
+    <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "2. January, 2006" }}
     </li>
   {{ end }}
