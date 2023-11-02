@@ -1,7 +1,7 @@
 {{ with .Params.hide_footer }}
  <!-- No footer here! -->
 {{ else }}
- <footer>
-   Nettside under konstruksjon, designet av {{ .Site.Params.name }} i {{ now.Year }}
+<footer>
+   Nettside under konstruksjon, designet med <a href="https://gohugo.io/">Hugo</a> av {{ .Site.Params.name }} i {{ now.Year }}
  </footer>
 {{ end }}
