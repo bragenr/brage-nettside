@@ -1,5 +1,12 @@
 baseURL = "https://brage-blog.pages.dev/"
 title = "Brage N. Reitan"
+enableRobotsTXT = true
 
 [params]
 name = 'Brage N. Reitan'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+        [markup.goldmark.parser.attribute]
+            block = true
