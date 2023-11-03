@@ -4,3 +4,13 @@ enableRobotsTXT = true
 
 [params]
 name = 'Brage N. Reitan'
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
+      resources/_gen/assets/scss/sass/js

@@ -10,5 +10,11 @@ I Cyberforsvar har jeg fått bryne meg på alt fra logganalyse i Splunk, memory 
 
 Denne nettsiden er min digitale portefølje, et sted hvor jeg deler mine tanker og analyser fra Capture The Flag (CTF)-konkurranser, dykker ned i de nyeste prosjektene mine, og dokumenterer min faglige utvikling gjennom sertifiseringer og praktiske erfaringer.
 
-{{< customIcon "/images/github-mark-white.png" "https://github.com/bragenr" >}}
-{{< customIcon "/images/linkedin.png" "https://www.linkedin.com/in/bragenr/" >}}
+<div class="icon-wrapper">
+    <a href="https://github.com/bragenr">
+        <img src="/images/github-mark-white.png" alt="Github logo">
+    </a>
+    <a href="https://www.linkedin.com/in/bragenr">
+                <img src="/images/linkedin.png" alt="Linkedin logo">
+    </a>
+</div>
