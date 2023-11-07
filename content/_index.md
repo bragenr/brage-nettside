@@ -9,8 +9,6 @@ Denne nettsiden vil bli min digitale portefølje med writeups fra CTFs, blogginn
 
 
 
-
-
 <div class="icon-wrapper">
     <a href="https://github.com/bragenr">
         <img src="/images/github-mark-white.png" alt="Github logo">
