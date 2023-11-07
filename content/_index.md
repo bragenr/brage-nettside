@@ -3,7 +3,7 @@ title: Brage N. Reitan
 hide_footer: false
 ---
 # $whoami
-Hei! Jeg heter Brage Nesteby Reitan og studerer en [Bachelor i Cybersikkerhet på tredjeåret ved Høyskolen Kristiania](https://www.kristiania.no/studier/bachelor/cybersikkerhet/). 
+Hei! Jeg heter Brage Nesteby Reitan og studerer på tredjeåret en [Bachelor i Cybersikkerhet ved Høyskolen Kristiania](https://www.kristiania.no/studier/bachelor/cybersikkerhet/). 
 
 Denne nettsiden vil bli min digitale portefølje med writeups fra CTFs, blogginnlegg fra ting jeg finner på og mine siste prosjekter.
 
