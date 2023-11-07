@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Prosjekter
 hide_footer: false
 ---
-Jeg prøver å lære meg Hugo, et steg av gangen
+Kommer snart..
