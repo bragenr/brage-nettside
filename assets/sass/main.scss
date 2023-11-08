@@ -68,7 +68,7 @@ nav {
 footer {
   padding: 2em;
   text-align: center;
-  font-size: 0.875rem; /* Using rem for font scaling */
+  font-size: 0.875rem; 
 }
 
 h1 {
@@ -77,7 +77,7 @@ h1 {
 
 p {
   text-align: start;
-  font-size: 1rem; /* Using rem for font scaling */
+  font-size: 1rem; 
 }
 
 .home {
@@ -95,14 +95,14 @@ p {
   justify-content: left;
 }
 
-/* Responsive styles for mobile */
+
 @media (max-width: 600px) {
   body {
-    font-size: 18px; /* Larger font size for mobile devices for better readability */
+    font-size: 25px; 
   }
 
   .icon-wrapper {
-    padding: 2em; /* Slightly reduce padding */
+    padding: 2em; 
     flex-direction: column; /* Stack icons vertically on small screens */
     align-items: center; /* Center icons when stacked */
   }
