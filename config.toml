@@ -1,6 +1,6 @@
 baseURL = "https://bragenr.com/"
 title = "Brage N. Reitan"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [params]
 name = 'Brage N. Reitan'
