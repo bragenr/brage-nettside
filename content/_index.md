@@ -16,10 +16,10 @@ Denne nettsiden vil bli min digitale portefølje med writeups fra CTFs, blogginn
     <a href="https://linkedin.com/in/bragenr">
         <img src="/images/linkedin.png" alt="Linkedin logo">
     </a>
-<!--     <a href="https://tryhackme.com/p/bragenr">
+    <a href="https://tryhackme.com/p/bragenr">
         <img src="/images/thm-logo.png" alt="TryHackMe logo">
-    </a> -->
-    <a href="https://discordapp.com/users/213465147677605888">
-        <img src="/images/clyde.png" alt="Discord-logo">
     </a>
+<!--     <a href="https://discordapp.com/users/213465147677605888">
+        <img src="/images/clyde.png" alt="Discord-logo">
+    </a> -->
 </div>
