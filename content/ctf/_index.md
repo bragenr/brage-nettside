@@ -1,4 +1,4 @@
 ---
 title: CTF
-hide_footer: false
+hide_footer: true
 ---
