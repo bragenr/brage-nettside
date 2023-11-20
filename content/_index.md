@@ -10,16 +10,16 @@ Denne nettsiden vil bli min digitale portefølje med writeups fra CTFs, blogginn
 
 
 <div class="icon-wrapper">
-    <a href="https://github.com/bragenr">
+    <a href="https://github.com/bragenr" target="_blank">
         <img src="/images/github-mark-white.png" alt="Github logo">
     </a>
-    <a href="https://linkedin.com/in/bragenr">
+    <a href="https://linkedin.com/in/bragenr" target="_blank">
         <img src="/images/linkedin.png" alt="Linkedin logo">
     </a>
 <!--     <a href="https://tryhackme.com/p/bragenr">
         <img src="/images/thm-logo.png" alt="TryHackMe logo">
     </a>  -->
-    <a href="mailto:web@bragenr.com">
+    <a href="mailto:web@bragenr.com" target="_blank">
         <img src="/images/mail-send.png" alt="email">  
     </a>
 
