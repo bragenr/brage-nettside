@@ -1,4 +1,4 @@
 ---
 title: Blogg
-hide_footer: false
+hide_footer: true
 ---
